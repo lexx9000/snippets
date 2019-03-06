@@ -1,0 +1,23 @@
+.button {
+    display: inline-block;
+    margin-right: 16px;
+    padding: 10px 30px;
+
+    font: inherit;
+    text-align: center;
+    color: #fff;
+    vertical-align: middle;
+    text-transform: uppercase;
+
+    background-color: #fff;
+    border: none;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #fff;
+}
+
+.button:active {
+    background-color: #fff;
+}

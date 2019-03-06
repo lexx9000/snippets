@@ -1,0 +1,34 @@
+.form-item {
+    width: px;
+    margin: 0;
+    margin-bottom: px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: px;
+    margin-left: px;
+}
+
+.form-input {
+    box-sizing: border-box;
+    width: 140px;
+    padding: px px px px;
+
+    font: inherit;
+
+    background-color: transparent;
+    border: 0px solid #fff;
+}
+
+.form-input:hover {
+    border-color: #fff;
+}
+
+.form-input:focus {
+    border-color: #fff;
+}
+
+.form-input:invalid {
+    border-color: #fff;
+}
